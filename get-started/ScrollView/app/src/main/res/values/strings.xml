@@ -24,4 +24,10 @@
     \n\n
     <b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
     </string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="msg_edit">Clicked Edit</string>
+    <string name="msg_share">Clicked Share</string>
+    <string name="msg_delete">Clicked Delete</string>
 </resources>
