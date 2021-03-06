@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Workspace\\Import\\MaterialMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "D:\\Workspace\\Import\\MaterialMe\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "50,36,22,16,20,18,19,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2142,1532,1129,615,841,719,770,666",
+                        "endLines": "62,48,34,16,20,18,19,17",
+                        "endColumns": "12,19,19,49,284,49,69,51",
+                        "endOffsets": "2674,2134,1524,660,1121,764,835,713"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,580,1175,1563,1613,1898,1948,2018",
+                        "endLines": "14,27,40,41,42,43,44,45",
+                        "endColumns": "12,19,19,49,284,49,69,51",
+                        "endOffsets": "575,1170,1558,1608,1893,1943,2013,2065"
+                    }
+                }
+            ]
+        }
+    ]
+}

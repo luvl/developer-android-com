@@ -1,0 +1,4 @@
+#Thu Feb 25 01:45:54 ICT 2021
+base.0=D\:\\Workspace\\Import\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
